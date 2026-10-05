@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hai, saya Sigit Ali Fandi 👋
 
-<!--
-**sigitalifandi/sigitalifandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa yang tertarik di bidang [isi bidangmu] dan sedang mencari kesempatan magang.
 
-Here are some ideas to get you started:
+## Skill
+- [Bahasa pemrograman, mis. HTML, CSS, JavaScript]
+- [Tools, mis. Git, VS Code]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek
+- Segera hadir
+
+## Kontak
+- Email: sigitfandi663@gmail.com
