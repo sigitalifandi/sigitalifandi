@@ -1,13 +1,22 @@
 # Hai, saya Sigit Ali Fandi 👋
 
-Mahasiswa yang tertarik di bidang [isi bidangmu] dan sedang mencari kesempatan magang.
+Mahasiswa **Teknik Mekatronika semester 5** di Politeknik Elektronika Negeri Surabaya (PENS).
+Fokus pada **otomasi dan sistem kontrol**, dan sedang mencari kesempatan **magang**.
 
-## Skill
-- [Bahasa pemrograman, mis. HTML, CSS, JavaScript]
-- [Tools, mis. Git, VS Code]
+## 🤖 Fokus
+- Otomasi dan sistem kontrol (PID, sensor, aktuator)
+- Embedded system sebagai otak sistem otomasi
+- Akuisisi dan monitoring data
 
-## Proyek
+## 🛠️ Skill
+- **Otomasi & Kontrol:** [isi: PLC / PID / HMI, yang benar-benar kamu kuasai]
+- **Pemrograman:** C/C++, Python, Arduino
+- **Hardware:** ESP32, sensor, motor DC/servo, rangkaian elektronik
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Proyek
 - Segera hadir
 
-## Kontak
+## 📫 Kontak
 - Email: sigitfandi663@gmail.com
+- LinkedIn: [isi link LinkedIn]
